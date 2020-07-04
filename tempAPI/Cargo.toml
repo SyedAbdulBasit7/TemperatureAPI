@@ -3,6 +3,8 @@ name = "tempAPI"
 version = "0.1.0"
 authors = ["Syed Abdul Basit <syedspy1444@gmail.com>"]
 edition = "2018"
+license = "MIT"
+description = "Temperature API"
 respository = "https://github.com/SyedAbdulBasit7/TemperatureAPI.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
