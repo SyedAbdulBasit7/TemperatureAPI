@@ -1,0 +1,11 @@
+/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/rls/debug/deps/getrandom-ad1a1a4db4e538c6.rmeta: /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/lib.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/use_file.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util_libc.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error_impls.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/linux_android.rs
+
+/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/rls/debug/deps/getrandom-ad1a1a4db4e538c6.d: /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/lib.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/use_file.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util_libc.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error_impls.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/linux_android.rs
+
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/lib.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/use_file.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/util_libc.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/error_impls.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.14/src/linux_android.rs:

@@ -1,0 +1,11 @@
+/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/rls/debug/deps/serde_urlencoded-cd4734481c69fc58.rmeta: /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/lib.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/de.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/mod.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/key.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/pair.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/part.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/value.rs
+
+/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/rls/debug/deps/serde_urlencoded-cd4734481c69fc58.d: /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/lib.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/de.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/mod.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/key.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/pair.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/part.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/value.rs
+
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/lib.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/de.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/mod.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/key.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/pair.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/part.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/value.rs:

@@ -1,0 +1,11 @@
+/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/debug/deps/cookie_store-597fbde1fd9af760.rmeta: /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs
+
+/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/debug/deps/cookie_store-597fbde1fd9af760.d: /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs
+
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs:

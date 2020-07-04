@@ -1,0 +1,12 @@
+/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/rls/debug/deps/base64-3f27a142d0940322.rmeta: /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs
+
+/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/rls/debug/deps/base64-3f27a142d0940322.d: /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs
+
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs:

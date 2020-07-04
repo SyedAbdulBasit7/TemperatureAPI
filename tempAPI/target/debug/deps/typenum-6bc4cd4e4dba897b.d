@@ -1,0 +1,18 @@
+/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/debug/deps/typenum-6bc4cd4e4dba897b.rmeta: /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/lib.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/bit.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/int.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/marker_traits.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/operator_aliases.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/private.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/type_operators.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/uint.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/array.rs /mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/debug/build/typenum-c57ab548ff6a3e22/out/op.rs /mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/debug/build/typenum-c57ab548ff6a3e22/out/consts.rs
+
+/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/debug/deps/typenum-6bc4cd4e4dba897b.d: /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/lib.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/bit.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/int.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/marker_traits.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/operator_aliases.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/private.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/type_operators.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/uint.rs /home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/array.rs /mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/debug/build/typenum-c57ab548ff6a3e22/out/op.rs /mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/debug/build/typenum-c57ab548ff6a3e22/out/consts.rs
+
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/lib.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/bit.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/int.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/marker_traits.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/operator_aliases.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/private.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/type_operators.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/uint.rs:
+/home/sabasit/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/array.rs:
+/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/debug/build/typenum-c57ab548ff6a3e22/out/op.rs:
+/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/debug/build/typenum-c57ab548ff6a3e22/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/debug/build/typenum-c57ab548ff6a3e22/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/mnt/sda5/sabasit/Documents/IOT/SelfStudy/tempAPI/tempAPI/target/debug/build/typenum-c57ab548ff6a3e22/out/op.rs
